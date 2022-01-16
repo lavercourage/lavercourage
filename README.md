@@ -21,8 +21,10 @@ __Frontend Developer__
 
 <br/>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavercourage&sho_icons=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
+[![lavercourage's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavercourage&sho_icons=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavercourage&show_icons=true&theme=kacho_ga)
 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavercourage&layout=compact&theme=monokai)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavercourage&layout=default&theme=monokai) -->
