@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:F8B195,100:e53935&height=200&section=header&text=Jeongeum%20Kim&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40)
 <div align=center>
+  
 __Frontend Developer__
 <br/>
 프론트엔드 개발자 김정음입니다!🙌
