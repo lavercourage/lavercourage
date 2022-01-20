@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:F8B195,100:e53935&height=200&section=header&text=Jeongeum%20Kim&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40)
 <div align=center>
-  
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:F8B195,100:e53935&height=200&section=header&text=Jeongeum%20Kim&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40)
+
 __Frontend Developer__
 <br/>
 프론트엔드 개발자 김정음입니다!🙌
@@ -28,8 +29,7 @@ __Frontend Developer__
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavercourage&layout=default&theme=monokai) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavercourage&layout=compact&theme=aura_dark) -->    
-  
-</div>
-
 
 ![fotter](https://capsule-render.vercel.app/api?type=waving&&color=0:e53935,100:F8B195&height=80&section=footer)
+
+</div>
